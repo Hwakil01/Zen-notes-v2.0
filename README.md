@@ -1,8 +1,9 @@
-# 🧘 Zen Notes 2.0
+# 🧘 Zen Notes v2.0
 
 Zen Notes 2.0 is a modern decentralized note-taking DApp built on the ZenChain blockchain. It allows users to anonymously submit thoughts, suggestions, or feedback by connecting their Web3 wallet. It is fully responsive, animated, and beautifully styled for both mobile and desktop.
 
-🔗 **Live Demo:** [https://hwakil01.github.io/zen-notes-v2.0](https://hwakil01.github.io/zen-notes-v2.0)
+🔗 **Live Demo:** [
+https://hwakil01.github.io/Zen-notes-v2.0](https://hwakil01.github.io/Zen-notes-v2.0)
 
 ---
 
@@ -26,15 +27,15 @@ Zen Notes 2.0 is a modern decentralized note-taking DApp built on the ZenChain b
 
 ## ▶️ How to Run Zen Notes 2.0
 
-Zen Notes 2.0 is a decentralized app (DApp), so it requires a Web3 wallet like MetaMask to work properly.
+Zen Notes v2.0 is a decentralized app (DApp), so it requires a Web3 wallet like MetaMask to work properly.
 
 ### 📱 On Mobile
 
-To use Zen Notes 2.0 on your phone:
+To use Zen Notes v2.0 on your phone:
 
 1. Install the **MetaMask app** (Android or iOS).
 2. Open the **MetaMask browser** inside the app.
-3. Visit: [https://hwakil01.github.io/zen-notes-v2.0](https://hwakil01.github.io/zen-notes-v2.0)
+3. Visit: [https://hwakil01.github.io/Zen-notes-v2.0](https://hwakil01.github.io/zen-notes-v2.0)
 4. Connect your wallet and start submitting notes.
 
 > ❗ Don't open the link in your normal phone browser — it won't connect to MetaMask properly. You must use the MetaMask browser.
@@ -43,11 +44,11 @@ To use Zen Notes 2.0 on your phone:
 
 ### 💻 On PC/Desktop
 
-To use Zen Notes 2.0 on a computer:
+To use Zen Notes v2.0 on a computer:
 
 1. Use **Chrome**, **Brave**, or **Firefox** browser.
 2. Install the **MetaMask extension** from: https://metamask.io/
-3. After installing, visit: [https://hwakil01.github.io/zen-notes-v2.0](https://hwakil01.github.io/zen-notes-v2.0)
+3. After installing, visit: [https://hwakil01.github.io/Zen-notes-v2.0](https://hwakil01.github.io/Zen-notes-v2.0)
 4. Click "Connect Wallet" to use the DApp.
 
 > ⚠️ If MetaMask is not installed, the app will show an alert asking you to install it.
