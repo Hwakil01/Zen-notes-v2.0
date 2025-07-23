@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Zen-notes-v2.0/static/css/main.4b4b9af4.css",
+    "main.css": "/Zen-notes-v2.0/static/css/main.dd4c7251.css",
     "main.js": "/Zen-notes-v2.0/static/js/main.7593ec6f.js",
     "index.html": "/Zen-notes-v2.0/index.html",
-    "main.4b4b9af4.css.map": "/Zen-notes-v2.0/static/css/main.4b4b9af4.css.map",
+    "main.dd4c7251.css.map": "/Zen-notes-v2.0/static/css/main.dd4c7251.css.map",
     "main.7593ec6f.js.map": "/Zen-notes-v2.0/static/js/main.7593ec6f.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b4b9af4.css",
+    "static/css/main.dd4c7251.css",
     "static/js/main.7593ec6f.js"
   ]
 }
